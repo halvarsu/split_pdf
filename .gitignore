@@ -1,0 +1,4 @@
+*_out
+*.pdf
+*.txt
+*.ipynb_checkpoints
